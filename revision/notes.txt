@@ -1,0 +1,14 @@
+ 1  math.h kya hai = ye 0 se 1 tak koi bhi random de skta hai jaise 0.4253236253625
+
+ 2 flor math.floor(random)  ye point ke baad ke sare value hta deta hai jaisse upr ka sirf 0 bachegaa
+
+ 3  ceil main nu bas deta hai aur aage no pe add kr deta hai jiase 4.983448726467  tomise krega 5 
+
+ 4  create element = document.createEliment('div')  aise bnaya 
+
+5  append child isse insert krte hai kisi naye eliment ko jab bnate hai tab 
+
+6  text content isee hum sirf text dete hai kisi html me 
+
+7 set attributes = attribute har ek element me hota hau kuch value hold kiye jaise class id    var img.getattribute {'src'} 
+

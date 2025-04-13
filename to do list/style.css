@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: monospace;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+#card li {
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin: 10px;
+  /* font-size: 2rem; */
+}
+
+#progress {
+  text-align: center;
+
+}
+#add-btn{
+  margin: 10px;
+  padding: 5px;
+  background-color: #18630f;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button{
+  margin: 10px;
+  padding: 5px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}

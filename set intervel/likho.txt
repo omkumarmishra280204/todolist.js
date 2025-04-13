@@ -1,0 +1,10 @@
+yah bhi same timeout ki trh hai pr hai yah ek controled loop ki trh chaltta hai chalte rhta hain
+
+iske sath ek dikkat hai ki yah chalte rhta hai ant tak isliye ise rokne ke liyen  
+
+clearinterval ka use krenge 
+
+var num = 0 
+setinterval(function){
+    console.log('interval)
+}

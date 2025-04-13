@@ -1,0 +1,4 @@
+js ko web api se rap krne par extra features add ho jate hai 
+js ko web se connect krti hai 
+
+async ka mtlb ek time me kayi chij kr skte hain 
