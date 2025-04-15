@@ -12,6 +12,7 @@ addBtn.addEventListener("click", function () {
     delvtn.innerHTML = "X";
     addlistbtn.appendChild(li);
     input.value = '';
+    
 
     li.appendChild(delvtn);
     delvtn.addEventListener("click", function () {
